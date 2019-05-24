@@ -1,0 +1,32 @@
+https://medium.freecodecamp.org/quick-guide-to-understanding-and-creating-reactjs-apps-8457ee8f7123
+
+https://samueleresca.net/2018/02/server-side-architecture-with-node-and-typescript-with-nest/
+
+https://www.youtube.com/watch?v=Tj_MMY15g6w
+
+https://coccoc.com/search?query=nestjs+and+type+orm
+
+https://www.techiediaries.com/nestjs-tutorial-rest-api-crud/
+
+https://github.com/lujakob/nestjs-realworld-example-app/tree/master/src
+
+https://docs.nestjs.com/techniques/database
+
+https://github.com/typeorm/mongo-typescript-example/blob/master/src/index.ts
+
+https://auth0.com/blog/nestjs-brings-typescript-to-nodejs-and-express/
+
+https://github.com/typeorm/typeorm/blob/master/docs/mongodb.md
+
+
+https://github.com/lujakob/nestjs-realworld-example-app/blob/master/src/article/article.controller.ts
+
+
+https://kipalog.com/posts/Thiet-ke-scalable-React-App-tu-dau
+
+##cai dat
+npm install -g @nest/cli
+nest new crud-app
+ cd crud-app
+$ npm run start:dev
+npm install --save @nestjs/typeorm typeorm mysql

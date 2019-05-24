@@ -1,0 +1,17 @@
+.login-form{
+    width: 30%;
+}
+.club-infor{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+.club-detail-infor{
+    width: 70%;
+    position: relative;
+    left: 10%;
+    right: 10%;
+    top:20%;
+}
